@@ -7,7 +7,7 @@ from os.path import join, splitext, isdir
 from os import listdir
 
 # List of available speakers.
-available_speakers = ["awb", "bdl", "clb", "jmk", "ksp", "rms", "slt"]
+available_speakers = ["aew", "ahw", "aup", "axb", "eey", "fem", "gka", "ljm", "lnh", "rxr", "slp", "awb", "bdl", "clb", "jmk", "ksp", "rms", "slt"]
 
 
 def _name_to_dirname(name):
